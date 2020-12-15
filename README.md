@@ -4,7 +4,12 @@
 Hi, I'm Juyoung Pak, a passionate self-taught Backend and AI developer from Seoul!
 - 🔭 I’m currently working on TagHive as Intern
 - 🌱 I’m currently learning SpringFramwork and Deeplearning
-- 📫 How to reach me: [here](thrbag789@gmail.com)
+- 📫 How to reach me: 
+
+<a href="mailto:thebag789@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thebag789@gmail.com"/></a>
+
+<a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/My-Study-Blog-7891d76855104473a07593fba37777b6"/></a>&nbsp;
+
 
 💚 **Languages and Tools**<br><br>
 <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp;
@@ -28,7 +33,10 @@ Hi, I'm Juyoung Pak, a passionate self-taught Backend and AI developer from Seou
 <img src="https://img.shields.io/badge/-GCP-yellow"/>&nbsp;
 <img src="https://img.shields.io/badge/-Git-red"/>&nbsp;
 
-<a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/My-Study-Blog-7891d76855104473a07593fba37777b6"/></a>&nbsp;
-<a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thebag789@gmail.com"/></a>
 -----
+<details>
+<summary><b>🧡Github Stats🧡</b> <i>(click to expand!)</i></summary>
+  
 ![Juyoung4's github stats](https://github-readme-stats.vercel.app/api?username=Juyoung4&hide=contribs,prs)
+
+</details>
