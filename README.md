@@ -4,9 +4,7 @@
 Hi, I'm Juyoung Pak, a passionate self-taught Backend and AI developer from Seoul!
 - 🔭 I’m currently working on TagHive as Intern
 - 🌱 I’m currently learning SpringFramwork and Deeplearning
-- 📫 How to reach me: 
-
-<a href="mailto:thebag789@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thebag789@gmail.com"/></a>
+- 📫 How to reach me: <a href="mailto:thebag789@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thebag789@gmail.com"/></a>
 
 <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/My-Study-Blog-7891d76855104473a07593fba37777b6"/></a>&nbsp;
 
