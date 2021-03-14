@@ -10,7 +10,7 @@ Hi, I'm Juyoung Pak, a passionate self-taught Backend and AI developer from Seou
 
 
 💚 **Languages and Tools**<br><br>
-<img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp;
+<img src="https://img.shields.io/badge/-Python-blue"/>&nbsp;
 <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp;
 <img src="https://img.shields.io/badge/-c/c++-yellow"/>&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-navy"/>
