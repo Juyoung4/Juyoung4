@@ -37,6 +37,13 @@
 
 -----
 <details>
+<summary><b>🏅BOJ Plofile🏅</b><i>(click to expand!)</i></summary>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vallot8)](https://solved.ac/vallot8)
+
+</details>
+
+<details>
 <summary><b>🧡Github Stats🧡</b> <i>(click to expand!)</i></summary>
   
 ![Juyoung4's github stats](https://github-readme-stats.vercel.app/api?username=Juyoung4&hide=contribs,prs)
